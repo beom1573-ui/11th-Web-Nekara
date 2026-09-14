@@ -1,4 +1,4 @@
-# 🌐 11th-Web)
+# 🌐 11th-Web
 > 11th 서경대 **UMC PE-Web 파트 Repository** 입니다.  
 
 <p>
